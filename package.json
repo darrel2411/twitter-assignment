@@ -1,0 +1,27 @@
+{
+  "name": "twitter-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrel2411/twitter-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrel2411/twitter-assignment/issues"
+  },
+  "homepage": "https://github.com/darrel2411/twitter-assignment#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "got": "^11.8.2",
+    "needle": "^3.0.0",
+    "oauth-1.0a": "^2.2.6"
+  }
+}
